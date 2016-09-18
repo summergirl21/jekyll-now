@@ -1,0 +1,23 @@
+---
+layout: post
+title: Week 4
+---
+
+
+**What did you do this past week?**
+This week I tried to find a partner for the Netflix project. I know a few people in the class but wanted to work with someone I don’t know. Unfortunately I wasn’t able to find anyone to work with. I tried talking to people after class and posting on piazza but everyone I talked to already had partners and no one responded to my piazza post. I have started working on the project by myself and made a good amount of progress. The actual math/algorithms behind the rating predictions is much easier than I expected but setting up everything has been a lot of work.
+
+**What's in your way?**
+Finding a partner. Also learning to write a makefile. I mostly copied from the Collatz assignment but I’ve never even edited a makefile before so it was a learning experience. This made  getting Travis CI to run my tests difficult
+
+**What will you do next week?**
+Finish Netflix project. Right now I have a very basic algorithm that predict the same number every time, 3.7. I have most of my tests and stuff written and need to work on my prediction algorithm now. 
+
+**My Experience**
+I wish I had been able to find a partner for the project, but I really liked class this week. The talk by the developer from Bloomberg was interesting and I really like the Netflix project. I have been curious as to how it works.
+
+
+**Tip of the Week**
+I started using PyCharm this week, it’s really nice, and free.
+[https://www.jetbrains.com/pycharm/features/](https://www.jetbrains.com/pycharm/features/)
+
